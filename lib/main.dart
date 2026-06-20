@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 
 void main() {
@@ -409,4 +408,3 @@ class _ListaPageState extends State<ListaPage> {
     );
   }
 }
-Adicionar código do aplicativo Flutter
